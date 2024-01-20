@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "devz"
+version = "0.1.0"
+description = ""
+authors = ["zeel-codder <zeelprajapati321@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+click = "^8.1.7"
+
+
+[tool.poetry.scripts]
+start = "devz.src:start"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
