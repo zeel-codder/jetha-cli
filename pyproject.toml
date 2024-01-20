@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "devz"
+name = "jetha-cli"
 version = "0.1.0"
 description = ""
 authors = ["zeel-codder <zeelprajapati321@gmail.com>"]
@@ -11,7 +11,7 @@ click = "^8.1.7"
 
 
 [tool.poetry.scripts]
-start = "devz.src:start"
+jetha-bhai = "jetha_cli.src:jetha_bhai"
 
 [build-system]
 requires = ["poetry-core"]
