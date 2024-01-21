@@ -3,6 +3,7 @@ name = "jetha-cli"
 version = "0.1.0"
 description = ""
 authors = ["zeel-codder <zeelprajapati321@gmail.com>"]
+homepage = "https://github.com/zeel-codder/jetha-cli"
 readme = "README.md"
 
 [tool.poetry.dependencies]
