@@ -6,14 +6,8 @@ Jetha-Bhai CLI is a command-line interface that provides a fun and unique way to
 
 ## Installation
 
-1. Install the latest release (v0.1.0)
-
-2. Install the Python package with pip
-
 ```bash
-pip install jetha_cli-0.1.0.tar.gz
-or
-pip install jetha_cli-0.1.0-py3-none-any.whl
+pip install jetha-cli
 ```
 
 # Test Cmd
